@@ -15,7 +15,7 @@ You need 2 .txt files in the root directory of the script file:
 2. Citations.txt
 
 # Steps
-You need to have copied the list of references from the article (example a pdf) to a text file called source.txt.  Manipulate the source references as such that each reference is in its own line.
+You need to have copied the list of references from the article (example a pdf) to a text file called "source.txt".  Manipulate the source references as such that each reference is in its own line.  It's also important that references doesn't span more than one line as in the example below.
 
 # eg.:
 
