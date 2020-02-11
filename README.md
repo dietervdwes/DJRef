@@ -17,14 +17,17 @@ You need 2 .txt files in the root directory of the script file:
 # Steps
 You need to have copied the list of references from the article (example a pdf) to a text file called source.txt.  Manipulate the source references as such that each reference is in its own line.
 
-eg.:
-"
-Delanaye P, Nellessen E, Grosch S et al, Creatinine-based formulae for the estimation of glomerular filtration rate in heart transplant recipients, Clin Transplant 2006; 20: 596?603,,
-Masson I, Flamant M, Maillard N et al, MDRD versus CKD-EPI equation to estimate glomerular filtration rate in kidney transplant recipients, Transplantation 2013; 95: 1211?1217,,
-Luis-Lima S, Marrero-Miranda D, Gonz�lez-Rinne A et al, Estimated glomerular filtration rate in renal transplantation:the nephrologist in the mist, Transplantation 2015; 99: 2625?2633,,
-Beben T, Rifkin DE, GFR estimating equations and liver disease,Adv Chronic Kidney Dis 2015; 22: 337?342,,
-"
+# eg.:
 
+Delanaye P, Nellessen E, Grosch S et al, Creatinine-based formulae for the estimation of glomerular filtration rate in heart transplant recipients, Clin Transplant 2006; 20: 596?603,,
+# Newline
+Masson I, Flamant M, Maillard N et al, MDRD versus CKD-EPI equation to estimate glomerular filtration rate in kidney transplant recipients, Transplantation 2013; 95: 1211?1217,,
+# Newline
+Luis-Lima S, Marrero-Miranda D, Gonz�lez-Rinne A et al, Estimated glomerular filtration rate in renal transplantation:the nephrologist in the mist, Transplantation 2015; 99: 2625?2633,,
+# Newline
+Beben T, Rifkin DE, GFR estimating equations and liver disease,Adv Chronic Kidney Dis 2015; 22: 337?342,,
+
+# Steps (continued)
 Then open Google Chrome (other browser won't work) and navigate and log into your Google Scholar account and make the window full screen.
 
 With all set, when you hit the "Go" button it should start searching article for article and hitting the "star" button to save the articles to your library.
