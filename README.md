@@ -34,6 +34,10 @@ With all set, when you hit the "Go" button it should start searching article for
 
 When all is done, you navigate with Chrome to your library, then hit the "BibTex" button and it should start appending the file "Citations.txt" with all the Bibtex references in your Google scholar library.
 
+# Watch it at work here
+https://www.youtube.com/watch?v=wFjn-K4SGpU
+
+
 #Who said referencing isn't fun!
 Script by Dieter van der Westhuizen
 dieter.vdwesthuizen@nhls.ac.za
